@@ -1,4 +1,4 @@
 #include <iostream>
 using namespace std;
-
-int main() {}
+void Destructor();
+int main() { Destructor(); }
