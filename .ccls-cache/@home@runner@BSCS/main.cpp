@@ -1,4 +1,5 @@
 #include <iostream>
 using namespace std;
 void Destructor();
-int main() { Destructor(); }
+void Destructor_Nested();
+int main() { Destructor_Nested(); }
